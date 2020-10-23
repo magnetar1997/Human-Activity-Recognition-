@@ -351,3 +351,8 @@ def plot_confusion_matrix(cm, classes,
 plt.figure()
 class_names = encoder.classes_
 plot_confusion_matrix(cfs, classes=class_names,title='Confusion Matrix, without normalization')
+
+
+
+
+print("Thus us the end of the code , please refer to HAR data set from any public domain for further udpdates on the dataset")
